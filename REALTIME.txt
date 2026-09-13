@@ -1,0 +1,26 @@
+EDITING BY - FNGR - FINAL ZIP
+
+Files:
+
+index.html = public website (no Admin button/icon)
+admin.html = separate Firebase Auth + Firestore admin panel
+style.css = shared responsive dark UI
+firestore.rules = publish these rules in Firebase Console > Firestore Database > Rules
+sitemap.xml = sitemap for Google Search Console
+google-site-verification: google813be7fd7e131a01.html = Google verification file
+assets/logo.png = included logo image
+
+Admin UID configured:
+FdD7joDNPbg2kRrvueQCxotIDl03
+
+Content collection:
+contents
+
+Ads settings document:
+settings/ads
+
+Ads are optional and will show only after you add your real Google AdSense publisher ID and slot IDs in admin.html. Do not use fake IDs.
+
+Important: Firebase Firestore Rules in this folder are not applied automatically. Open Firebase Console and Publish them manually.
+
+Note: The provided original logo image was not available as a separate upload in this chat, so assets/logo.png in this ZIP is a simple placeholder logo. Replace it with your original logo if needed.
